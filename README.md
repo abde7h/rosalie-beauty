@@ -2,7 +2,7 @@
 
 Frontend e-commerce de cosmética natural: **Next.js 16** (App Router), TypeScript, Tailwind CSS 4, Framer Motion, carrito con Context + `localStorage`, imágenes con `next/image`.
 
-- **Repositorio:** [github.com/abde7h/nextjs](https://github.com/abde7h/nextjs)
+- **Repositorio:** [github.com/abde7h/rosalie-beauty](https://github.com/abde7h/rosalie-beauty)
 - **Rama principal:** `main`
 
 ## Requisitos

@@ -3,6 +3,9 @@
 # Cursor IDE
 .cursor/
 
+# clone local dentro del proyecto (evitar commits accidentales)
+/nextjs/
+
 # dependencies
 /node_modules
 /.pnp
